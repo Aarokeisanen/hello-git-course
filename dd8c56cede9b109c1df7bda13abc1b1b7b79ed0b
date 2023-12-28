@@ -1,0 +1,84 @@
+[33mcommit c29682abb07f5521306416d246610a23cd37f947[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Aaro <aaro.keisanen@tuni.fi>
+Date:   Thu Dec 28 15:29:07 2023 +0200
+
+    basics
+
+[33mcommit bdae2587086f35ba25fdfe69908e670c91ea111a[m
+Merge: 9cfe2c8 dd2979f
+Author: Aaro <aaro.keisanen@tuni.fi>
+Date:   Thu Dec 28 15:01:17 2023 +0200
+
+    01~merge remote-tracking branch 'upstream/master'
+
+[33mcommit 9cfe2c8034fba69858134923f6a5bf6d28ef303e[m
+Author: Aaro <aaro.keisanen@tuni.fi>
+Date:   Thu Dec 28 14:33:39 2023 +0200
+
+    {message}
+
+[33mcommit bd15d4457634b1e1b965ac2bf2edc8d197ff8a26[m
+Author: Aaro <aaro.keisanen@tuni.fi>
+Date:   Thu Dec 28 14:30:44 2023 +0200
+
+    {message}
+
+[33mcommit 303cfefab28db2a8492c5e3bfd2c9af8e47cd4d9[m
+Author: Aaro <aaro.keisanen@tuni.fi>
+Date:   Thu Dec 28 14:01:30 2023 +0200
+
+    {message}
+
+[33mcommit 4dae3abf3d7fb426860a2d168aae7a58e1870007[m
+Author: Aaro <aaro.keisanen@tuni.fi>
+Date:   Thu Dec 28 13:58:10 2023 +0200
+
+    {message}
+
+[33mcommit a241e76898c03d394977af2db54c39f9dc704bab[m
+Author: Aaro <aaro.keisanen@tuni.fi>
+Date:   Thu Dec 28 13:50:56 2023 +0200
+
+    {message}
+
+[33mcommit dd2979f9609ce45e6739a9e07b895342efa62956[m[33m ([m[1;31mupstream/master[m[33m)[m
+Author: Mikko Luhtasaari <mikko.luhtasaari@tuni.fi>
+Date:   Tue May 12 13:11:49 2020 +0300
+
+    Add file to test settings
+
+[33mcommit 4e6605f7f49a0c6632248c60145f2da46addc89a[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:47:54 2019 -0700
+
+    A simple test
+
+[33mcommit 07291091b01a983d256488357b263ddb087d0188[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:14:09 2019 -0700
+
+    Removed debug-prints
+
+[33mcommit dd8c56cede9b109c1df7bda13abc1b1b7b79ed0b[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:12:41 2019 -0700
+
+    Merge-sort
+
+[33mcommit b6fd9edcecad84d37e52e93a9acbd02233163316[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 01:47:04 2019 -0700
+
+    Strings to integers
+
+[33mcommit be5d6373836d9d693c1d9e1dffb518f9331e4ff8[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 01:41:24 2019 -0700
+
+    Basic input
+
+[33mcommit e1b91edb8eeeee33b43c93653e3419a14efedd5f[m
+Author: Aku Niskanen <aku.niskanen@tuni.fi>
+Date:   Mon Oct 21 02:22:41 2019 -0700
+
+    Initial commit.
